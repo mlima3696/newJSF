@@ -1,0 +1,8 @@
+127.0.0.1 - - [07/Feb/2021:00:04:27 -0200] "GET / HTTP/1.1" 404 1069
+0:0:0:0:0:0:0:1 - - [07/Feb/2021:00:04:38 -0200] "GET /meuprimeiroprojetojsf/faces/primeirapagina.xhtml HTTP/1.1" 200 816
+127.0.0.1 - - [07/Feb/2021:13:34:02 -0200] "GET / HTTP/1.1" 404 1069
+127.0.0.1 - - [07/Feb/2021:16:11:27 -0200] "GET / HTTP/1.1" 404 1069
+0:0:0:0:0:0:0:1 - - [07/Feb/2021:16:11:31 -0200] "GET /meuprimeiroprojetojsf/faces/primeirapagina.xhtml HTTP/1.1" 200 792
+0:0:0:0:0:0:0:1 - - [07/Feb/2021:16:11:31 -0200] "GET /favicon.ico HTTP/1.1" 404 1080
+0:0:0:0:0:0:0:1 - - [07/Feb/2021:16:21:43 -0200] "POST /meuprimeiroprojetojsf/faces/primeirapagina.xhtml HTTP/1.1" 200 831
+0:0:0:0:0:0:0:1 - - [07/Feb/2021:16:27:40 -0200] "POST /meuprimeiroprojetojsf/faces/primeirapagina.xhtml HTTP/1.1" 200 858

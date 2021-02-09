@@ -1,0 +1,4 @@
+127.0.0.1 - - [09/Feb/2021:00:00:40 -0200] "GET / HTTP/1.1" 404 1069
+0:0:0:0:0:0:0:1 - - [09/Feb/2021:00:00:45 -0200] "POST /meuprimeiroprojetojsf/faces/primeirapagina.xhtml HTTP/1.1" 500 2148
+127.0.0.1 - - [09/Feb/2021:00:02:28 -0200] "GET / HTTP/1.1" 404 1069
+0:0:0:0:0:0:0:1 - - [09/Feb/2021:00:02:33 -0200] "POST /meuprimeiroprojetojsf/faces/primeirapagina.xhtml HTTP/1.1" 500 2148
