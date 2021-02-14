@@ -6,4 +6,6 @@
     <fullyQualifiedTypeName name="java.util.ArrayList"/>
     <fullyQualifiedTypeName name="java.util.List"/>
     <fullyQualifiedTypeName name="com.sun.faces.taglib.html_basic.CommandButtonTag"/>
+    <fullyQualifiedTypeName name="javax.faces.component.html.HtmlCommandButton"/>
+    <fullyQualifiedTypeName name="javax.faces.bean.ViewScoped"/>
 </qualifiedTypeNameHistroy>

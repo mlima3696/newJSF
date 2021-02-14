@@ -21,7 +21,7 @@ public class PessoaBean {
 		nomes.add(nome);
 		if(nomes.size() > 3) {
 			commandButton.setDisabled(true);
-			return "paginanavegada"; // null ou vazio fica na mesma pagina = outcome
+			return "paginanavegada?faces-redirect=true"; // null ou vazio fica na mesma pagina = outcome
 		}
 		return "";
 	}

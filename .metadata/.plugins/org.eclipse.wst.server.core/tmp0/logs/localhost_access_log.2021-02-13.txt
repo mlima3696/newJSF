@@ -34,3 +34,10 @@
 0:0:0:0:0:0:0:1 - - [13/Feb/2021:21:22:12 -0200] "POST /meuprimeiroprojetojsf/page.xhtml HTTP/1.1" 200 827
 0:0:0:0:0:0:0:1 - - [13/Feb/2021:21:22:13 -0200] "POST /meuprimeiroprojetojsf/page.xhtml HTTP/1.1" 200 856
 0:0:0:0:0:0:0:1 - - [13/Feb/2021:21:22:14 -0200] "POST /meuprimeiroprojetojsf/page.xhtml HTTP/1.1" 200 903
+127.0.0.1 - - [13/Feb/2021:21:43:13 -0200] "GET / HTTP/1.1" 404 1069
+0:0:0:0:0:0:0:1 - - [13/Feb/2021:21:44:15 -0200] "GET /meuprimeiroprojetojsf/ HTTP/1.1" 200 641
+0:0:0:0:0:0:0:1 - - [13/Feb/2021:21:44:20 -0200] "POST /meuprimeiroprojetojsf/index.xhtml HTTP/1.1" 200 778
+0:0:0:0:0:0:0:1 - - [13/Feb/2021:21:44:31 -0200] "POST /meuprimeiroprojetojsf/page.xhtml HTTP/1.1" 200 803
+0:0:0:0:0:0:0:1 - - [13/Feb/2021:21:44:32 -0200] "POST /meuprimeiroprojetojsf/page.xhtml HTTP/1.1" 200 829
+0:0:0:0:0:0:0:1 - - [13/Feb/2021:21:44:33 -0200] "POST /meuprimeiroprojetojsf/page.xhtml HTTP/1.1" 200 857
+0:0:0:0:0:0:0:1 - - [13/Feb/2021:21:44:34 -0200] "POST /meuprimeiroprojetojsf/page.xhtml HTTP/1.1" 200 582
